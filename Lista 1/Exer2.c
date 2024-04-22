@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Exercício: Faça um algoritmo para ler dois valores e imprimir a multiplicação dos mesmos.
+//Exercício: Faça um algoritmo para ler dois valores e imprimir a multiplicação dos mesmos
 
 int main() {
     int num1, num2, multi;
