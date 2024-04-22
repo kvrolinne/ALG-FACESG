@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Excercício: Faça um algoritmo para ler dois valores e imprimir a soma dos mesmos
+//Excercício: Faça um algoritmo para ler dois valores e imprimir a soma dos mesmos.
 
 int main() {
     int num1, num2, soma;
