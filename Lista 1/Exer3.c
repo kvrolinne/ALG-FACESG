@@ -3,7 +3,6 @@
 //Exercício: Faça um algoritmo para ler três valores e imprimir a soma dos mesmos.
 
 int main(){
-    
     int num1, num2, num3, soma;
     
     printf("Digite um número: ");
