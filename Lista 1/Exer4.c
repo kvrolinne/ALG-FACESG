@@ -3,14 +3,11 @@
 //Exercício: Faça um algoritmo para ler um valor em quilogramas (Kg) e imprimir o equivalente em gramas (g).
 
 int main() {
-    float quilogramas, gramas;
+    float quilogramas;
 
-    printf("Digite o valor em quilogramas (Kg): ");
+    printf("Digite o valor em quilogramas (kg): ");
     scanf("%f", &quilogramas);
-
-    gramas = quilogramas * 1000;
-
-    printf("%.2f Kg equivale a %.0f gramas (g)\n", quilogramas, gramas);
+    printf("%.0fkg equivale a %.0fg\n", quilogramas, quilogramas*1000);
 
     return 0;
 }
