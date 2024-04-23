@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &num1);
     printf("Digite mais um número: ");
     scanf("%d", &num2);
-    printf("A multiplicação dos números é: %d", num1*num2);
+    printf("A multiplicação dos números é: %d", num1*num2)
     
     return 0;
 }
