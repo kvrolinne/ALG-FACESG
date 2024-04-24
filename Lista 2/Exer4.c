@@ -15,5 +15,5 @@ int main() {
     else 
         printf("Valor da compra: R$%.2f\n", qnt * 0.25);
 
-return 0;
+    return 0;
 }
