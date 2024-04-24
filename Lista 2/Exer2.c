@@ -1,12 +1,10 @@
 #include <stdio.h>
 
-/*
-Exercício: Faça um programa em C para ler o peso e a idade do usuário e mostrar qual o risco de apresentar um problema cardíaco:
+/*Exercício: Faça um programa em C para ler o peso e a idade do usuário e mostrar qual o risco de apresentar um problema cardíaco:
 peso maior que 110 kg e idade acima de 38 anos: ALTO RISCO
 peso menor que 110kg e idade acima de 38 anos: MÉDIO RISCO
 peso maior que 110kg e idade abaixo ou igual a 38 anos: BAIXO RISCO
-nenhuma das anteriores: BAIXíSSIMO RISCO.
-*/
+nenhuma das anteriores: BAIXíSSIMO RISCO. */
 
 int main(){
     int idade;
