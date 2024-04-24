@@ -7,7 +7,7 @@ de maçãs compradas, calcule e escreva na tela o valor total da compra */
 int main() {
     int qnt;
 
-    printf("Informe a quantidade de macas compradas: ");
+    printf("Informe a quantidade de maçãs compradas: ");
     scanf("%d", &qnt);
 
     if (qnt < 12) 
